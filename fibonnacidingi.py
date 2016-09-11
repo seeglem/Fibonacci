@@ -12,7 +12,7 @@ def fibPrint(n):
 		b=b+c
 		print(a)
 
-kCzech=input("Just put a damn number here and see what happens ")
+kCzech=input("Just put a number here and see what happens ")
 number=int(kCzech)
 
 fibPrint(number)
